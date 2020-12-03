@@ -52,5 +52,9 @@ Set following Cmake variables:
 - **OBS_FRONTEND_LIB** (filepath): obs-frontend-api.lib path
 - **PTHREAD_LIB** (filepath): w32-pthread.lib path
 
+# Uninstallation
+1. Uninstall the program from the Control Panel
+2. Execute the bat file in `C:\Program Files\obs-studio\data\obs-plugins\win-dshow` called `virtualcam-uninstall.bat` as an administrator.
+
 # Donate
 If you like my work on this plugin, you can donate via [Paypal.me](https://www.paypal.me/obsvirtualcam)
